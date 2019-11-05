@@ -1,0 +1,2 @@
+run :GoInstallBinaries to install go-vim properly (might have to be done as root)
+
