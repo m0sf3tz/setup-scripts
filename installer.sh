@@ -9,4 +9,8 @@ cp .vimrc ~/.vimrc
 
 sudo apt-get -y install ctags cscope tmux
 
-git clone https://github.com/fatih/vim-go.git ~/.vim/pack/plugins/start/vim-go
+mkdir -p ~/.vim/pack/my-pack/start/
+cd ~/.vim/pack/my-pack/start/
+
+git clone https://github.com/fatih/vim-go.git
+git clone https://github.com/majutsushi/tagbar.git
