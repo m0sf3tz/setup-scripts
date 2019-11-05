@@ -10,4 +10,5 @@ map <F5> :winc H <CR>
 "enable tagbar"
 nmap <F12> :TagbarToggle<CR>
 
-
+"Enable go plugins"
+filetype plugin on
