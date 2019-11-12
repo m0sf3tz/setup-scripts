@@ -1,6 +1,7 @@
 #!/bin/bash
 
-cp .vimrc ~/.vimrc
+cp .tmux.conf ~/
+cp .vimrc     ~/
 
 sudo apt-get -y install ctags cscope tmux
 
@@ -13,5 +14,3 @@ git clone https://github.com/itchyny/lightline.vim.git
 
 # This will give you the latest version of go
 sudo snap install --classic go
-
-
