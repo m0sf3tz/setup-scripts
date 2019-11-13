@@ -3,7 +3,7 @@
 cp .tmux.conf ~/
 cp .vimrc     ~/
 
-sudo apt-get -y install ctags cscope tmux
+sudo apt-get -y install ctags cscope tmux vim
 
 mkdir -p ~/.vim/pack/my-pack/start/
 cd ~/.vim/pack/my-pack/start/
