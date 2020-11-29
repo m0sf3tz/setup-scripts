@@ -1,2 +1,2 @@
 run :GoInstallBinaries to install go-vim properly (might have to be done as root)
-to get dual adio working on Ubunto, run alsamixer, disable auto-mute.
+to get dual adio working on Ubunto, run alsamixer, disable auto-mute, might have to max some settings, plug speaker in and out and it's obvious which level needs to be max.
