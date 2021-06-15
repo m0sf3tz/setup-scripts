@@ -14,5 +14,4 @@ git clone https://github.com/fatih/vim-go.git
 git clone https://github.com/majutsushi/tagbar.git
 git clone https://github.com/itchyny/lightline.vim.git
 
-# This will give you the latest version of go
-sudo snap install --classic go
+cp 50-esp.rules /etc/udev/rules.d/
